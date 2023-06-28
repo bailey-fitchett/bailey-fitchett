@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Technologies, Automation, Machine Learning, AI, Quantum Physics, Quantum Computing, Civil Rights and geek life.
 - 🌱 I’m currently learning A.I. Programming
 - 💞️ I’m looking to collaborate on Mobile Apps
-- 📫 You can reach me at PrideInSolutions@Gmail.com
+- 📫 You can reach me at NyxBailey@gmail.com
 
 <!---
 bailey-fitchett/bailey-fitchett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
